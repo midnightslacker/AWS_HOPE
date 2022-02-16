@@ -1,2 +1,2 @@
-# AWS_HOPE
+# AWS HOPE
 AWS Hunting OPEnsearch
